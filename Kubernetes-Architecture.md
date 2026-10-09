@@ -1,6 +1,10 @@
 Kubernetes Architecture
 
 
+<img width="1052" height="698" alt="image" src="https://github.com/user-attachments/assets/477b8303-bdf0-4a4f-8229-136109bc1be3" />
+
+
+
 <img width="457" height="466" alt="image" src="https://github.com/user-attachments/assets/3e15672f-d47f-44f6-ac99-a4af131fe4ba" />
 
 🔵 Control Plane (Master)
