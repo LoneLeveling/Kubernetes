@@ -1,4 +1,6 @@
 Kubernetes Architecture
+
+
 <img width="457" height="466" alt="image" src="https://github.com/user-attachments/assets/3e15672f-d47f-44f6-ac99-a4af131fe4ba" />
 
 🔵 Control Plane (Master)
@@ -72,6 +74,7 @@ Controller creates another Pod
 > **Think:** Traffic router for Services.
 
 Summary:
+
 <img width="390" height="294" alt="image" src="https://github.com/user-attachments/assets/12324ce6-10de-427b-ae92-932941006c50" />
 
 **Control Plane components are**:
